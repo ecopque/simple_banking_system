@@ -42,9 +42,9 @@ if __name__ == '__main__':
     print(c2.conta) #6:
  
 
-    #1: Este retorno sairá em #2.
-    #2: Resposta: Cliente, ('Edson', 75).
-    #3: Estudar sintaxe. Ficou boa mesmo?
-    #4: Resposta: ContaCorrente, (555, 666, 0, 0).
-    #5: Resposta: Cliente, ('Rufa', 17).
-    #6: Resposta: ContaPoupanca, (888, 999, 0).
+#1: This return will come out in #2.
+#2: Response: Client, ('Edson', 75).
+#3: Study syntax. Did it turn out good?
+#4: Response: ContaCorrente, (555, 666, 0, 0).
+#5: Response: Client, ('Rufa', 17).
+#6: Response: ContaPoupanca, (888, 999, 0).
