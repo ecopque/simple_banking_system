@@ -66,22 +66,19 @@ if __name__ == '__main__':
     cc1.sacar(100) #11:
     cc1.sacar(55) #12:
 
-#1: Este "agencia: int" é tipagem, ou seja, quero que minha conta seja int.
-#2: "-> float", que seja float e me retorne float.
-#3: Coloque o mouse em cima e veja a indicação que já é float. Lindo! ;-)
-#4: Não precisava tipar, pois já vem pronta. Mas ok, string. E quanto ao None é porque o método não retorna nada, então None.
-#5: Como método não retorna nada, então None.
-#6: Resposta: O seu saldo é 99.00. Saque: 1.
-#7: Resposta: O seu saldo é 101.00. Depósito: 2.
-#8: Resposta: O seu saldo é 100.00. Saque: 1.
-#9: Resposta: O seu saldo é 49.00. Saque: 1.
-#10: Resposta: O seu saldo é 51.00. Depósito: 2.
-#11: Resposta: O seu saldo é -49.00. Saque: 100.
-#12: Respostas: Não foi possível sacar o valor desejado! | Seu limite é: -100.00 | O seu saldo é -49.00. Valor de saque negado: 55.
+#1: This "agencia: int" is typing, meaning I want my account to be int.
+#2: "-> float", that it be float and return float to me.
+#3: Put the mouse over it and see the indication that it's already float. Beautiful! ;-)
+#4: It didn't need to be typed, because it's already ready. But okay, string. And as for None, it's because the method doesn't return anything, so None.
+#5: As the method doesn't return anything, then None.
+#6: Response: Your balance is 99.00. Withdrawal: 1.
+#7: Response: Your balance is 101.00. Deposit: 2.
+#8: Response: Your balance is 100.00. Withdrawal: 1.
+#9: Response: Your balance is 49.00. Withdrawal: 1.
+#10: Response: Your balance is 51.00. Deposit: 2.
+#11: Response: It was not possible to withdraw the desired amount! | Your limit is: -100.00 | Your balance is -49.00. Denied withdrawal amount: 55.
 
-
-
-
+##########
 
 # Aqui temos um exercício com "abstração", "herança", "encapsulamento" e "polimorfismo".
 # Proposta: criar um sistema bancário que possui clientes, contas e um banco. A idéia é que o cliente tenha uma conta (poupança e corrente) e que possa sacar/depositar nesta mesma conta. Contas corrente tem um limite/crédito extra.
