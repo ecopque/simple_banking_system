@@ -15,5 +15,3 @@ Overview
 - Instantiate clients and accounts using classes defined in pessoas.py and contas.py.
 - Add clients and accounts to the bank instance.
 - Authenticate clients and perform banking operations such as depositing and withdrawing money.
-
-https://linktr.ee/edsoncopque
